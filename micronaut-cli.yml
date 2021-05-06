@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.brunocarvalho
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, http-client, java, java-application, junit, logback, management, maven, micrometer, micrometer-atlas, netty-server, readme, shade, yaml]
